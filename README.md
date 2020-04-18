@@ -5,6 +5,7 @@ Data Link: https://drive.google.com/drive/u/1/folders/1QZwyhfrylsGEIimA8QvDdFt-e
 Notes Link: (project.pdf) in this folder https://drive.google.com/drive/u/1/folders/1w1b81_gjoS7LNO_lWVVvbrP1LJ0wrvo- <br><br>
 
 Note: LSTM not effective in multiplication <br>
+https://cs224d.stanford.edu/reports/PeddadaAmani.pdf<br>
 In their highly influential work on deep learning [3], Hochreiter et al. demonstrated that LSTMs
 are remarkably suited for performing such tasks as addition, excelling under the inherent ability to
 selectively ‘remember’ certain states of the input in previous timesteps. They thus propound the
